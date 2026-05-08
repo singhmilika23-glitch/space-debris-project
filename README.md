@@ -1,4 +1,4 @@
-# space-debris-project
+# Space Debris Project
 # Orbital Debris Collision Detection System
 
 ## Overview
