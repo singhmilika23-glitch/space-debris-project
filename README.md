@@ -4,8 +4,7 @@
 ## Overview
 
 This project is a computational aerospace research prototype designed to analyze real satellite orbital data and identify potential close-approach events in low Earth orbit.
-
-Using publicly available TLE datasets from CelesTrak, the system calculates satellite positions in real time, computes inter-object distances, and visualizes possible conjunction risks.
+I used publicly available TLE datasets from CelesTrak, the system calculates satellite positions in real time, computes inter-object distances, and visualizes possible conjunction risks.
 
 ## Features
 - Real-time satellite tracking
